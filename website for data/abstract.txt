@@ -1,0 +1,4 @@
+Credit Card Fraud Detection Project
+This project identifies fraudulent transactions using machine learning.
+It includes dataset creation, preprocessing, model training, evaluation,
+and deployment readiness materials.
